@@ -4,8 +4,8 @@
 
 ### <mark style="color:green;">안전제어모듈(SCM)</mark>
 
-![](<../.gitbook/assets/image (9).png>)
+![](<../_assets/image (9).png>)
 
 ### <mark style="color:green;">툴 I/O</mark>
 
-![](<../.gitbook/assets/image (10).png>)
+![](<../_assets/image (10).png>)

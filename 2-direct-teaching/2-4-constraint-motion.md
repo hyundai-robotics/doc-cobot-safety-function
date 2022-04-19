@@ -10,6 +10,6 @@
 
 3. 민감도를 선택한 후 **\[OK]** 버튼을 터치하십시오.
 
-![](../.gitbook/assets/image61.jpeg)
+![](../_assets/image61.jpeg)
 
-
+

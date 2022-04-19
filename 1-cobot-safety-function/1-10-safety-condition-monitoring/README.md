@@ -7,10 +7,10 @@
 
 2. &#x20;협동로봇의 안전 상태와 안전 기능별 상태를 확인하십시오.
 
-![](../../.gitbook/assets/image49.jpeg)
+![](../../_assets/image49.jpeg)
 
 |               **번호**               | 　　　　　　　　　　　**설명**                                                                                                                                                                                                    |
 | :--------------------------------: | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-|  ![](../../.gitbook/assets/1.png)  | 협동로봇의 안전 상태를 확인합니다.                                                                                                                                                                                                  |
-|  ![](../../.gitbook/assets/2.png)  | <p>안전 기능 탭을 선택하여 안전 기능별 상태를 확인합니다.</p><ul><li><strong>OFF</strong>: 안전 영역 비활성화</li><li><strong>SAFE</strong>: 안전 기능 준수</li><li><strong>UNSAFE</strong>: 안전 기능 위반</li><li><strong>ERROR</strong>: SCM 상태 에러</li></ul> |
-|  ![](../../.gitbook/assets/3.png)  | <ul><li><strong>[I/O]</strong>: 안전 I/O 상태를 확인할 수 있습니다.</li><li><strong>[복구 모드]</strong>: 안전 기능 모니터링 위반 시, 에러를 해제하여 복구할 수 있습니다.</li></ul>                                                                             |
+|  ![](../../_assets/1.png)  | 협동로봇의 안전 상태를 확인합니다.                                                                                                                                                                                                  |
+|  ![](../../_assets/2.png)  | <p>안전 기능 탭을 선택하여 안전 기능별 상태를 확인합니다.</p><ul><li><strong>OFF</strong>: 안전 영역 비활성화</li><li><strong>SAFE</strong>: 안전 기능 준수</li><li><strong>UNSAFE</strong>: 안전 기능 위반</li><li><strong>ERROR</strong>: SCM 상태 에러</li></ul> |
+|  ![](../../_assets/3.png)  | <ul><li><strong>[I/O]</strong>: 안전 I/O 상태를 확인할 수 있습니다.</li><li><strong>[복구 모드]</strong>: 안전 기능 모니터링 위반 시, 에러를 해제하여 복구할 수 있습니다.</li></ul>                                                                             |

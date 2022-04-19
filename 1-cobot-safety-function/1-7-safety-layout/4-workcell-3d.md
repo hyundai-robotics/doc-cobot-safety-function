@@ -6,22 +6,22 @@
 
 1\. 작업 영역의 패널 스택 우측 상단의 **\[+]** 버튼을 터치하십시오.
 
-![](../../.gitbook/assets/image41.jpeg)
+![](../../_assets/image41.jpeg)
 
 2\. 패널 선택창에서 **\[workcell]**을 터치하십시오. 로봇의 현재 자세가 3D 화면에 나타납니다.
 
-![](../../.gitbook/assets/image42.jpeg)
+![](../../_assets/image42.jpeg)
 
 {% hint style="info" %}
 * 패널 선택창에 모니터링 가능한 모든 항목이 나타납니다.
 * 모니터링 가능한 항목은 제어기 설정에 따라 다르게 나타납니다.
 {% endhint %}
 
-3\. 작업 영역(![](../../.gitbook/assets/1.png))과 툴 영역(![](../../.gitbook/assets/2.png)), 툴 방향 제약(![](../../.gitbook/assets/3.png)), 로봇 엘보우 영역 영역(![](../../.gitbook/assets/4.png)), 금지 영역(![](../../.gitbook/assets/5.png))의 설정 상태를 확인하십시오.
+3\. 작업 영역(![](../../_assets/1.png))과 툴 영역(![](../../_assets/2.png)), 툴 방향 제약(![](../../_assets/3.png)), 로봇 엘보우 영역 영역(![](../../_assets/4.png)), 금지 영역(![](../../_assets/5.png))의 설정 상태를 확인하십시오.
 
-![](../../.gitbook/assets/image43.jpeg)
+![](../../_assets/image43.jpeg)
 
-* 카메라를 조정하려면 3D 화면 우측 하단의 **\[확대/축소]** 아이콘(![](../../.gitbook/assets/image44.png)), **\[이동]** 아이콘(![](../../.gitbook/assets/image45.png)), 또는 **\[회전]** 아이콘(![](../../.gitbook/assets/image46.png))을 선택한 후 화면을 드래그하십시오.
+* 카메라를 조정하려면 3D 화면 우측 하단의 **\[확대/축소]** 아이콘(![](../../_assets/image44.png)), **\[이동]** 아이콘(![](../../_assets/image45.png)), 또는 **\[회전]** 아이콘(![](../../_assets/image46.png))을 선택한 후 화면을 드래그하십시오.
 * 설정을 변경하고 설정값을 적용하려면, workcell 창을 닫은 후 다시 여십시오.
 
 {% hint style="warning" %}

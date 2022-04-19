@@ -6,7 +6,7 @@
 
 그림은 제품 조작 방법의 이해를 돕고 화면을 설명하는데 사용합니다. 그림을 설명할 때에는 다음과 같이 해당 부분에 숫자를 표기하고 그에 대응하는 내용을 설명합니다.
 
-![](../.gitbook/assets/image\_explan.png)
+![](../_assets/image\_explan.png)
 
 ### <mark style="color:green;">GUI (Graphical User Interface)</mark>
 
@@ -32,5 +32,5 @@ GUI 는 메뉴 이름 및 버튼 이름을 대괄호**(\[ ]**) 안에 넣고 **�
 제품을 사용할 때 알아 두면 좋을 유용한 사항이나 추가적인 정보를 다음과 같이 제공합니다.
 
 {% hint style="info" %}
-상태표시줄에![](../.gitbook/assets/engineer.png)아이콘이 깜빡이면 엔지니어모드 상태입니다.
+상태표시줄에![](../_assets/engineer.png)아이콘이 깜빡이면 엔지니어모드 상태입니다.
 {% endhint %}

@@ -12,4 +12,4 @@
 
 3. 직접 교시 모드를 선택하고 각 축의 민감도를 설정한 후 **\[OK]** 버튼을 터치하십시오.
 
-![](../.gitbook/assets/image60.jpeg)
+![](../_assets/image60.jpeg)
