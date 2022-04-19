@@ -6,7 +6,7 @@ This manual utilizes the following expression rules and safety directions for ea
 
 Figures are used for a better understanding of how to operate the product and for describing screens. When a description is made by a figure, the pertaining part is marked with the figure number that describes the part, as shown in the following figure:
 
-![](../.gitbook/assets/image\_explan.png)
+![](../_assets/image\_explan.png)
 
 ### <mark style="color:green;">GUI (Graphical User Interface)</mark>
 
@@ -32,5 +32,5 @@ This provides the shortcut to the related information in the manual. Cross-refer
 Useful or additional information on using the product will be provided as follows:
 
 {% hint style="info" %}
-The blinking of the![](../.gitbook/assets/engineer.png) icon in the status bar indicates the engineer mode.
+The blinking of the![](../_assets/engineer.png) icon in the status bar indicates the engineer mode.
 {% endhint %}

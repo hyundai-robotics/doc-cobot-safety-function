@@ -8,7 +8,7 @@ If a safety function monitoring is violated, the robot will activate a safety st
 
 2\. On the safety stop notice window, click the **\[ENTER]** button. Then, the safety condition monitoring window will appear.
 
-![](../../../.gitbook/assets/image66.jpeg)
+![](../../../_assets/image66.jpeg)
 
 3\. Click the **\[Status Recovery]** button. Then, the **\[Status Recovery]** button will turn green, and the system will enter recovery mode.
 
@@ -16,7 +16,7 @@ If a safety function monitoring is violated, the robot will activate a safety st
 
 
 
-![](<../../../.gitbook/assets/image (13).png>)
+![](<../../../_assets/image (13).png>)
 
 5\. After the recovery is completed, click the **\[Status Recovery]** button. Then, the **\[Status Recovery]** will turn into the previous color, and the recovery mode will be cleared.
 

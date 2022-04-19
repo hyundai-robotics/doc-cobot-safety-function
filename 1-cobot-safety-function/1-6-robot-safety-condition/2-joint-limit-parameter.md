@@ -4,9 +4,9 @@ These parameters are the limit values for monitoring the safety functions relati
 
 You can set the parameter values in the **\[Joint limit]** tab of the **\[Set up > 4: Application parameter > 21: Cobot setup > 1: Cobot Safety Function > 1: Safety condition]** menu.
 
-![Figure 4 An example of joint limiting setting (S-axis)](<../../.gitbook/assets/image (20).png>)
+![Figure 4 An example of joint limiting setting (S-axis)](<../../_assets/image (20).png>)
 
-![Figure 5 Window for setting joint limiting parameters](<../../.gitbook/assets/image (27).png>)
+![Figure 5 Window for setting joint limiting parameters](<../../_assets/image (27).png>)
 
 |    **Parameter**   | 　　　　　　　　**Description**                                              |              **Default setting value**             |
 | :----------------: | -------------------------------------------------------------------- | :------------------------------------------------: |

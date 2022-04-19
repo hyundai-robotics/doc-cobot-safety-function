@@ -4,8 +4,8 @@ The mapping between the safety control modules (SCMs) of the collaborative robot
 
 ### <mark style="color:green;">Safety Control Module (SCM)</mark>
 
-![](<../.gitbook/assets/image (45).png>)
+![](<../_assets/image (45).png>)
 
 ### <mark style="color:green;">Tool I/O</mark>
 
-![](<../.gitbook/assets/image (31).png>)
+![](<../_assets/image (31).png>)

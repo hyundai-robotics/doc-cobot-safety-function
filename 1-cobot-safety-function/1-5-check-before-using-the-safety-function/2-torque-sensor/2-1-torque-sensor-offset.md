@@ -10,12 +10,12 @@ For more details on step position recording and modification, see “[**2.3.2 St
 
 2\. **** Click the **\[Favorites]** button on the bottom right part of the Hi6 teach pendant window, enter “**314”** in the input box of the favorites window, and click the **\[OK]** button.
 
-![](<../../../.gitbook/assets/image (48).png>)
+![](<../../../_assets/image (48).png>)
 
 {% hint style="warning" %}
 **\[Caution]**
 
-* In Engineer Mode, the engineer mode icon (![](../../../.gitbook/assets/engineer.png)) will blink on the status bar.
+* In Engineer Mode, the engineer mode icon (![](../../../_assets/engineer.png)) will blink on the status bar.
 * Be careful as a wrong setting in Engineer Mode may lead to a severe problem in the robot system.
 {% endhint %}
 
@@ -23,7 +23,7 @@ For more details on step position recording and modification, see “[**2.3.2 St
 
 4\. Check the position of each axis, click the **\[Reset one]** or **\[Reset all]** button, and observe whether the torque sensor offset value has been changed.
 
-![](<../../../.gitbook/assets/image (14).png>)
+![](<../../../_assets/image (14).png>)
 
 * To set the torque sensor offset of an axis, click the \[Reset one] button.
 * To set the torque sensor offsets of all the axes, click the \[Reset all] button.

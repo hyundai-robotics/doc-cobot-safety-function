@@ -2,7 +2,7 @@
 
 Select the **\[SCM Status]** tab of **\[Configure > 4: Application parameter > 21: Cobot Setup > 1: Cobot Safety Function > 5: Cobot Safety Status]** to view the status of the SCM board.
 
-![Figure 15 Safety conditions of the collaborative robot: SCM status](<../../.gitbook/assets/image (19).png>)
+![Figure 15 Safety conditions of the collaborative robot: SCM status](<../../_assets/image (19).png>)
 
 *   **\[Status]**: You can view the safety conditions.
 

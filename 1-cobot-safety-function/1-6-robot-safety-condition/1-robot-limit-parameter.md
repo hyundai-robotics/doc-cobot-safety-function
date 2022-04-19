@@ -4,7 +4,7 @@ These parameters are the limit values for monitoring the safety functions relati
 
 You can set parameter values in the **\[Robot limit]** tab of the **\[Set up > 4: Application parameter > 21: Cobot setup > 1: Cobot Safety Function > 1: Safety condition]** menu.
 
-![](<../../.gitbook/assets/image (24).png>)
+![](<../../_assets/image (24).png>)
 
 |    **Parameter**    | 　　　　　　　　　**Description**                                                                               | **Default setting value** |
 | :-----------------: | ------------------------------------------------------------------------------------------------------ | :-----------------------: |

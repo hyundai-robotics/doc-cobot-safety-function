@@ -8,13 +8,13 @@ In recovery mode, move each axis with the jog if a stop occurs because of a safe
 
 2\. **** In the pose information window on the workspace, check whether the axial coordinate values of the robot are displayed at the reference pose (**0, 90 0, 0, 0, 0** \[deg]).
 
-![](<../../.gitbook/assets/image (35).png>)
+![](<../../_assets/image (35).png>)
 
 
 
 * Click the **\[+]** button at the top right part of the panel stack if the pose information window does not appear on the workspace. Then, click **\[Pose]** in the panel selection window.
 
-![](<../../.gitbook/assets/image (43).png>)
+![](<../../_assets/image (43).png>)
 
 3\. Proceed to the next step if the difference of the angular value is no larger than 0.01. Otherwise, carry out the encoder offset if it is larger than 0.01.
 

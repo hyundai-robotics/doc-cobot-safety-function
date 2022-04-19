@@ -5,8 +5,8 @@ The parameters for the safety functions of the collaborative robot must be set a
 1. Select the **\[Configure]** button > **\[5: Initialize > 11: system password setting]** menu. The password setting window will appear.
 2. Enter the password, and click the **\[OK]** button.
 
-![](<../../.gitbook/assets/image (34).png>)
+![](<../../_assets/image (34).png>)
 
 * In setting the parameters of the safety functions, the system setting password must be input for saving changes.
 
-![](<../../.gitbook/assets/image (29).png>)
+![](<../../_assets/image (29).png>)

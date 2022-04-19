@@ -5,7 +5,7 @@
 
 2. Set the I/O voltage, current, gain, and offset, and click the **\[OK]** button.
 
-![](<../../.gitbook/assets/image (18).png>)
+![](<../../_assets/image (18).png>)
 
 * **\[Analog I/O range]**: Select the voltage or current range of the analog I/O channel.
 * **\[Analog I/O gain]**: Set the analog I/O gain (unit: %).

@@ -6,22 +6,22 @@ You can enable the WorkCell 3D function on the panel selection window of the ope
 
 1\. Click the **\[+]** button that is at the top-right part of the panel stack of the working space.
 
-![](<../../.gitbook/assets/image (47).png>)
+![](<../../_assets/image (47).png>)
 
 2\. On the panel selection window, select **\[WorkCell]**. Then, the robot’s current posture will appear on the 3D window.
 
-![](<../../.gitbook/assets/image (12).png>)
+![](<../../_assets/image (12).png>)
 
 {% hint style="info" %}
 * On the panel selection window, all the items that can be monitored will appear.
 * The items that can be monitored will vary depending on controller settings.
 {% endhint %}
 
-3\. Check the settings of the working space (![](../../.gitbook/assets/1.png)), tool space (![](../../.gitbook/assets/2.png)), tool orientation limiting (![](../../.gitbook/assets/3.png)), robot elbow space (![](../../.gitbook/assets/4.png)), and limiting space (![](../../.gitbook/assets/5.png)).
+3\. Check the settings of the working space (![](../../_assets/1.png)), tool space (![](../../_assets/2.png)), tool orientation limiting (![](../../_assets/3.png)), robot elbow space (![](../../_assets/4.png)), and limiting space (![](../../_assets/5.png)).
 
-![](<../../.gitbook/assets/image (33).png>)
+![](<../../_assets/image (33).png>)
 
-* To adjust the camera, select the **\[Expand/Shrink]** icon (![](../../.gitbook/assets/image44.png)), the **\[Move]** icon (![](../../.gitbook/assets/image45.png)), or the **\[Rotate]** icon (![](../../.gitbook/assets/image46.png)), and drag the screen.
+* To adjust the camera, select the **\[Expand/Shrink]** icon (![](../../_assets/image44.png)), the **\[Move]** icon (![](../../_assets/image45.png)), or the **\[Rotate]** icon (![](../../_assets/image46.png)), and drag the screen.
 * To modify the setting and apply the set values, close and reopen the WorkCell window.
 
 {% hint style="warning" %}

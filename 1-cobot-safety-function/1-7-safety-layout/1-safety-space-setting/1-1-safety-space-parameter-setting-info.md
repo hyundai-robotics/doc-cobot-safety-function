@@ -1,6 +1,6 @@
 # 1.7.1.1 Setting information on safety space parameters
 
-![](<../../../.gitbook/assets/image (22).png>)
+![](<../../../_assets/image (22).png>)
 
 {% hint style="warning" %}
 **\[Caution]**

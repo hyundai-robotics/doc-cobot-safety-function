@@ -6,7 +6,7 @@
 
 3\. Press a direct teaching switch (1, 2, 3, or 5). The motor’s break will be released, and the direct teaching function will turn on. In the status display line of the operating program window, the operating method will be displayed as “**Direct teaching.**”
 
-![](../.gitbook/assets/image71.jpeg)
+![](../_assets/image71.jpeg)
 
 4\. While the direct teaching switch (1, 2, 3, or 5) is pressed, hold and move the robot to teach it the desired position.
 
