@@ -1,6 +1,6 @@
 # 1.7.1.1 안전 영역 파라미터 설정 정보
 
-![](<../../../_assets/image (5).png>)
+![](<../../../_assets/image_5.png>)
 
 {% hint style="warning" %}
 **\[주의]**
