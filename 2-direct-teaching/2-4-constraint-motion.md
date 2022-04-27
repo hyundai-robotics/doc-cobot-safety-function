@@ -10,6 +10,6 @@ When you conduct direct teaching through the constraint motion method, you can s
 
 3. Select a sensitivity, and click the **\[OK]** button.
 
-![](<../_assets/image (46).png>)
+![](<../_assets/image_46.png>)
 
 

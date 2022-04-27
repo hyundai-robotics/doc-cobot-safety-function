@@ -7,7 +7,7 @@ The method for setting the switches of the teaching device attached to the robot
 
 2. Click the drop-down menu, set functions for the switches, and click the **\[OK]** button.
 
-![](<../_assets/image (21).png>)
+![](<../_assets/image_21.png>)
 
 The functions that can be assigned to the direct teaching switches are as follows:
 

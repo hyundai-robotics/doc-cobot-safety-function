@@ -2,7 +2,7 @@
 
 Select the **\[Joint limit]** tab of **\[Configure > 4: Application parameter > 21: Cobot Setup > 1: Cobot Safety Function > 5: Cobot Safety Status]** to view the statuses of the joint limiting functions.
 
-![Figure 14 Safety conditions of the collaborative robot: Joint limiting](<../../_assets/image (38).png>)
+![Figure 14 Safety conditions of the collaborative robot: Joint limiting](<../../_assets/image_38.png>)
 
 *   **\[Status]**: You can view the safety conditions.
 

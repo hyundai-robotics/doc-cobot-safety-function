@@ -10,7 +10,7 @@ You must set torque sensor offsets because the diagnosis of force/power, among t
 
 ![Figure 1 Robot position when installed flat on the ground (0, 90, -90, 90, 0, 0 \[deg\])](../../../_assets/image.png)
 
-![Figure 2 Robot position when it is wall-mounted (90, 90, -90, 90, 0, 0 \[deg\])](<../../../_assets/image (1).png>)
+![Figure 2 Robot position when it is wall-mounted (90, 90, -90, 90, 0, 0 \[deg\])](<../../../_assets/image_1.png>)
 
 * In recovery mode, move each axis with the jog if a stop occurs because of a safety function violation. For more details on recovery mode, see “[**1.10.5 Recovery mode**.](../../1-10-safety-condition-monitoring/5-recovery-mode/)”
 
@@ -20,6 +20,6 @@ For more details on step position recording and modification, see “[**2.3.2 St
 
 **2.** In the **\[Joint limit]** tab of **\[Set up > 4: Application parameter > 21: Cobot Setup > 1: Cobot Safety Function > 1: Safety condition**] menu, check the current value of the joint torque limit.
 
-![](<../../../_assets/image (50).png>)
+![](<../../../_assets/image_50.png>)
 
 3\. Close the menu if the current torque sensor data value is smaller than 1 in the absolute value. Otherwise, carry out torque sensor offset if it is larger than 1.

@@ -2,7 +2,7 @@
 
 Select the **\[Robot limit]** tab of **\[Configure > 4: Application parameter > 21: Cobot Setup > 1: Cobot Safety Function > 5: Cobot Safety Status]** to view the statuses of the robot limiting functions.
 
-![Figure 13 Safety conditions of the collaborative robot: Robot limiting](<../../_assets/image (40).png>)
+![Figure 13 Safety conditions of the collaborative robot: Robot limiting](<../../_assets/image_40.png>)
 
 *   **\[Status]**: You can view the safety conditions.
 

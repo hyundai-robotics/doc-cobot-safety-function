@@ -7,7 +7,7 @@ The safety functions of the collaborative robot monitor the entire robot system 
 3. Select the **\[Configure]** > **\[3: Robot parameter > 1: Tool data]** menu.
 4. Check the data of each axis, set the weight, center of gravity, and inertia of the tool, and save the values by clicking the **\[OK]** button.
 
-![](<../../_assets/image (39).png>)
+![](<../../_assets/image_39.png>)
 
 * To easily create new tool data from scratch utilizing the current program, click the \[Auto calibration] button.
 * To correct the tool angle, click the \[Angle calibration] button.

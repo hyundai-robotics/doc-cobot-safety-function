@@ -8,7 +8,7 @@ To set the parameter values, click the **\[Robot]** button in the **\[Configure 
 
 
 
-![Figure 12 Safety robot modeling setting window](<../../_assets/image (11).png>)
+![Figure 12 Safety robot modeling setting window](<../../_assets/image_11.png>)
 
 |   Parameter   | Description                                                                         |   Default setting value   |
 | :-----------: | ----------------------------------------------------------------------------------- | :-----------------------: |

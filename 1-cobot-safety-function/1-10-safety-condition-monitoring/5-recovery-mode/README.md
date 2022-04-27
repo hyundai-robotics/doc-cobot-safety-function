@@ -16,7 +16,7 @@ If a safety function monitoring is violated, the robot will activate a safety st
 
 
 
-![](<../../../_assets/image (13).png>)
+![](<../../../_assets/image_13.png>)
 
 5\. After the recovery is completed, click the **\[Status Recovery]** button. Then, the **\[Status Recovery]** will turn into the previous color, and the recovery mode will be cleared.
 

@@ -19,9 +19,9 @@ _assets
 
 You can set parameter values by clicking the **\[Tool]** button in the **\[Set up > 4: Application parameter > 21: Cobot Setup > 1: Cobot Safety Function > 2: Safety layout]** menu.
 _assets
-![Figure 11 Safety tool modeling setting window](<../../.gitbook/assets/image (26).png>)
+![Figure 11 Safety tool modeling setting window](<../../.gitbook/assets/image_26.png>)
 _assets
-![](<../../.gitbook/assets/image (16).png>)
+![](<../../.gitbook/assets/image_16.png>)
 
 {% hint style="info" %}
 If you use the **\[Copy TCP]** button, the rotational angle values that can be set as the Z-direction vector of the current TCP will be applied to the reference vector, which facilitates the setting of the reference vector.

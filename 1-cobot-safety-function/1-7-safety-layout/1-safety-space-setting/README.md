@@ -2,9 +2,9 @@
 
 The safety space is a working space or a protected space in which the range of the tool or the robot elbow is monitored. The working space is a limited space where the monitoring target can move freely but cannot exceed. In contrast, the protected space is a limited space in which the monitoring target cannot move when it intrudes into the space. If the safety space is a working space, you can enable it by assigning a safety condition number. In the working space, if the monitoring target moves and exceeds the limit value of a safety condition, a functional safety stop will be actuated.
 
-![Figure 6 Safety space: Working space](<../../../_assets/image (36).png>)
+![Figure 6 Safety space: Working space](<../../../_assets/image_36.png>)
 
-![Figure 7 Safety space: Protected space](<../../../_assets/image (32).png>)
+![Figure 7 Safety space: Protected space](<../../../_assets/image_32.png>)
 
 A safety space should be configured by setting the position and length of the zero point based on the robot coordinate system, including a stopping distance. You can add up to 12 spaces, each of a cuboid shape. The safety space is enabled by setting parameters or safety I/O signals.
 
@@ -16,7 +16,7 @@ The method for setting safety spaces is as follows:
 
 
 
-![](<../../../_assets/image (17).png>)
+![](<../../../_assets/image_17.png>)
 
 |                **No.**               | 　　　　　　　　　　**Description**                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 |
 | :----------------------------------: | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |

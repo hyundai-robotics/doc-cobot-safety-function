@@ -5,7 +5,7 @@ This monitors safety function violations and the status of the SCM board. You ca
 1. &#x20;**** Select the **\[Configure]** button > **\[4: Application parameter > 21: Cobot Setup > 1: Cobot Safety Function > 5: Cobot Safety Status]** menu.
 2. Check the safety conditions and the statuses of the safety functions of the collaborative robot.
 
-![](<../../_assets/image (41).png>)
+![](<../../_assets/image_41.png>)
 
 |                No.                | Description                                                                                                                                                                                                                                                                                                             |
 | :-------------------------------: | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |

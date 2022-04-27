@@ -12,4 +12,4 @@ You can select the desired direct teaching mode and set the sensitivity of each 
 
 3. Select the direct teaching mode, set the sensitivity of each axis, and click the **\[OK]** button.
 
-![](<../_assets/image (42).png>)
+![](<../_assets/image_42.png>)

@@ -10,7 +10,7 @@ The collision detection function is a safety mechanism for situations in which t
 
 3. Set whether to use the collaborative robot’s collision detection function, configure the options, and click the **\[OK]** button.
 
-![](<../_assets/image (28).png>)
+![](<../_assets/image_28.png>)
 
 * **\[Collision detection]**: Set whether to use the collision detection function.
 * **\[Detection mode]**: Select the detection mode for collision detection.

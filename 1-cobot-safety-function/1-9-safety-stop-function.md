@@ -12,7 +12,7 @@ The method for setting the safety stop types of the safety functions is as follo
 
 2\. Click the drop-down menu, set the stop type, and click the **\[Apply]** button.
 
-![](<../_assets/image (44).png>)
+![](<../_assets/image_44.png>)
 
 | **No.** |               **Safety function**               |              **Stop function**             |
 | :-----: | :---------------------------------------------: | :----------------------------------------: |
