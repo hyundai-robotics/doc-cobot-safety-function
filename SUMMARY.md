@@ -1,4 +1,4 @@
-# Table of contents
+﻿# Table of contents
 
 * [협동로봇 안전 기능 설명서](README.md)
 * [이 설명서에 대하여](about-this-manual/README.md)

@@ -1,4 +1,4 @@
-# 1.1 용어 설명
+﻿# 1.1 용어 설명
 
 ### <mark style="color:green;">로봇 제한 파라미터</mark>&#xD;
 
