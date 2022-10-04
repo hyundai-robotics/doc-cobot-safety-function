@@ -1,4 +1,4 @@
-﻿# 3.2.1 툴 I/O 기본 사양
+﻿# 2.2.1 툴 I/O 기본 사양
 
 ### <mark style="color:green;">디지털 입출력</mark>
 
